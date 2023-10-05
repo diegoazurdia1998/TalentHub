@@ -1,0 +1,129 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\Documentos\\1A URL\\Estrucrutas de Datos 2\\Laboratorios\\Lab 2\\TalentHub\\TalentHub\\TalentHub.csproj": {}
+  },
+  "projects": {
+    "D:\\Documentos\\1A URL\\Estrucrutas de Datos 2\\Laboratorios\\Lab 1\\VisualProject\\Lab1Consola\\Lab1Consola\\Lab1Consola.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Documentos\\1A URL\\Estrucrutas de Datos 2\\Laboratorios\\Lab 1\\VisualProject\\Lab1Consola\\Lab1Consola\\Lab1Consola.csproj",
+        "projectName": "Lab1Consola",
+        "projectPath": "D:\\Documentos\\1A URL\\Estrucrutas de Datos 2\\Laboratorios\\Lab 1\\VisualProject\\Lab1Consola\\Lab1Consola\\Lab1Consola.csproj",
+        "packagesPath": "C:\\Users\\diego\\.nuget\\packages\\",
+        "outputPath": "D:\\Documentos\\1A URL\\Estrucrutas de Datos 2\\Laboratorios\\Lab 1\\VisualProject\\Lab1Consola\\Lab1Consola\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\diego\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.400\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Documentos\\1A URL\\Estrucrutas de Datos 2\\Laboratorios\\Lab 2\\TalentHub\\TalentHub\\TalentHub.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Documentos\\1A URL\\Estrucrutas de Datos 2\\Laboratorios\\Lab 2\\TalentHub\\TalentHub\\TalentHub.csproj",
+        "projectName": "TalentHub",
+        "projectPath": "D:\\Documentos\\1A URL\\Estrucrutas de Datos 2\\Laboratorios\\Lab 2\\TalentHub\\TalentHub\\TalentHub.csproj",
+        "packagesPath": "C:\\Users\\diego\\.nuget\\packages\\",
+        "outputPath": "D:\\Documentos\\1A URL\\Estrucrutas de Datos 2\\Laboratorios\\Lab 2\\TalentHub\\TalentHub\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\diego\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "D:\\Documentos\\1A URL\\Estrucrutas de Datos 2\\Laboratorios\\Lab 1\\VisualProject\\Lab1Consola\\Lab1Consola\\Lab1Consola.csproj": {
+                "projectPath": "D:\\Documentos\\1A URL\\Estrucrutas de Datos 2\\Laboratorios\\Lab 1\\VisualProject\\Lab1Consola\\Lab1Consola\\Lab1Consola.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
+              "target": "Package",
+              "version": "[3.1.5, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.400\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

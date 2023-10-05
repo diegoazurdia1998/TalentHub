@@ -1,0 +1,66 @@
+﻿
+@{
+    ViewData["Title"] = "VisualizerLetters";
+}
+
+<h1>Cartas del solicitante</h1>
+@{
+    Lab1Consola.Models.Applicant applicant = ViewBag.applicant;
+    <div>
+        <table class="table">
+            <thead>
+                <tr>
+                    <th>
+                        Nombre
+                    </th>
+                    <th>
+                        DPI
+                    </th>
+                    <th>
+                        Dirección
+                    </th>
+                    <th>
+                        Fecha de nacimeinto
+                    </th>
+
+                    <th></th>
+                </tr>
+            </thead>
+            <tbody>
+
+                <tr>
+                    <td>
+                        @applicant.name
+                    </td>
+                    <td>
+                        @applicant.dpi
+                    </td>
+                    <td>
+                        @applicant.address
+                    </td>
+                    <td>
+                        @applicant.datebirth
+                    </td>
+
+
+                </tr>
+
+            </tbody>
+        </table>
+        <p><div class="text-center"><h4>Cartas</h4></div>
+            @if (applicant.letters != null)
+            {
+
+
+                @for (int i = 0; i < @applicant.letters.Count; i++)
+                {
+                <p>Carta @(i + 1): <br />@applicant.letters[i]</p>
+            }
+            }
+            else
+            {
+                <p>No hay cartas registradas</p>
+            }
+            </p>
+        </div>
+    }

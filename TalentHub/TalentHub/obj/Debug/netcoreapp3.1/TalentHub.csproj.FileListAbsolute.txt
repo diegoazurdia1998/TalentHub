@@ -1,0 +1,241 @@
+D:\Documentos\1A URL\ED2\Laboratorios\Lab 2\TalentHub\TalentHub\bin\Debug\netcoreapp3.1\Lab1Consola.deps.json
+D:\Documentos\1A URL\ED2\Laboratorios\Lab 2\TalentHub\TalentHub\bin\Debug\netcoreapp3.1\Lab1Consola.runtimeconfig.json
+D:\Documentos\1A URL\ED2\Laboratorios\Lab 2\TalentHub\TalentHub\bin\Debug\netcoreapp3.1\Lab1Consola.runtimeconfig.dev.json
+D:\Documentos\1A URL\ED2\Laboratorios\Lab 2\TalentHub\TalentHub\bin\Debug\netcoreapp3.1\Lab1Consola.exe
+D:\Documentos\1A URL\ED2\Laboratorios\Lab 2\TalentHub\TalentHub\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\Documentos\1A URL\ED2\Laboratorios\Lab 2\TalentHub\TalentHub\bin\Debug\netcoreapp3.1\appsettings.json
+D:\Documentos\1A URL\ED2\Laboratorios\Lab 2\TalentHub\TalentHub\bin\Debug\netcoreapp3.1\TalentHub.exe
+D:\Documentos\1A URL\ED2\Laboratorios\Lab 2\TalentHub\TalentHub\bin\Debug\netcoreapp3.1\TalentHub.deps.json
+D:\Documentos\1A URL\ED2\Laboratorios\Lab 2\TalentHub\TalentHub\bin\Debug\netcoreapp3.1\TalentHub.runtimeconfig.json
+D:\Documentos\1A URL\ED2\Laboratorios\Lab 2\TalentHub\TalentHub\bin\Debug\netcoreapp3.1\TalentHub.runtimeconfig.dev.json
+D:\Documentos\1A URL\ED2\Laboratorios\Lab 2\TalentHub\TalentHub\bin\Debug\netcoreapp3.1\TalentHub.dll
+D:\Documentos\1A URL\ED2\Laboratorios\Lab 2\TalentHub\TalentHub\bin\Debug\netcoreapp3.1\TalentHub.pdb
+D:\Documentos\1A URL\ED2\Laboratorios\Lab 2\TalentHub\TalentHub\bin\Debug\netcoreapp3.1\TalentHub.Views.dll
+D:\Documentos\1A URL\ED2\Laboratorios\Lab 2\TalentHub\TalentHub\bin\Debug\netcoreapp3.1\TalentHub.Views.pdb
+D:\Documentos\1A URL\ED2\Laboratorios\Lab 2\TalentHub\TalentHub\bin\Debug\netcoreapp3.1\Lab1Consola.dll
+D:\Documentos\1A URL\ED2\Laboratorios\Lab 2\TalentHub\TalentHub\bin\Debug\netcoreapp3.1\Lab1Consola.pdb
+D:\Documentos\1A URL\ED2\Laboratorios\Lab 2\TalentHub\TalentHub\obj\Debug\netcoreapp3.1\TalentHub.csproj.AssemblyReference.cache
+D:\Documentos\1A URL\ED2\Laboratorios\Lab 2\TalentHub\TalentHub\obj\Debug\netcoreapp3.1\TalentHub.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documentos\1A URL\ED2\Laboratorios\Lab 2\TalentHub\TalentHub\obj\Debug\netcoreapp3.1\TalentHub.AssemblyInfoInputs.cache
+D:\Documentos\1A URL\ED2\Laboratorios\Lab 2\TalentHub\TalentHub\obj\Debug\netcoreapp3.1\TalentHub.AssemblyInfo.cs
+D:\Documentos\1A URL\ED2\Laboratorios\Lab 2\TalentHub\TalentHub\obj\Debug\netcoreapp3.1\TalentHub.csproj.CoreCompileInputs.cache
+D:\Documentos\1A URL\ED2\Laboratorios\Lab 2\TalentHub\TalentHub\obj\Debug\netcoreapp3.1\TalentHub.MvcApplicationPartsAssemblyInfo.cache
+D:\Documentos\1A URL\ED2\Laboratorios\Lab 2\TalentHub\TalentHub\obj\Debug\netcoreapp3.1\TalentHub.RazorAssemblyInfo.cache
+D:\Documentos\1A URL\ED2\Laboratorios\Lab 2\TalentHub\TalentHub\obj\Debug\netcoreapp3.1\TalentHub.RazorAssemblyInfo.cs
+D:\Documentos\1A URL\ED2\Laboratorios\Lab 2\TalentHub\TalentHub\obj\Debug\netcoreapp3.1\staticwebassets\TalentHub.StaticWebAssets.Manifest.cache
+D:\Documentos\1A URL\ED2\Laboratorios\Lab 2\TalentHub\TalentHub\obj\Debug\netcoreapp3.1\staticwebassets\TalentHub.StaticWebAssets.xml
+D:\Documentos\1A URL\ED2\Laboratorios\Lab 2\TalentHub\TalentHub\obj\Debug\netcoreapp3.1\scopedcss\bundle\TalentHub.styles.css
+D:\Documentos\1A URL\ED2\Laboratorios\Lab 2\TalentHub\TalentHub\obj\Debug\netcoreapp3.1\TalentHub.TagHelpers.input.cache
+D:\Documentos\1A URL\ED2\Laboratorios\Lab 2\TalentHub\TalentHub\obj\Debug\netcoreapp3.1\TalentHub.TagHelpers.output.cache
+D:\Documentos\1A URL\ED2\Laboratorios\Lab 2\TalentHub\TalentHub\obj\Debug\netcoreapp3.1\TalentHub.RazorCoreGenerate.cache
+D:\Documentos\1A URL\ED2\Laboratorios\Lab 2\TalentHub\TalentHub\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+D:\Documentos\1A URL\ED2\Laboratorios\Lab 2\TalentHub\TalentHub\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+D:\Documentos\1A URL\ED2\Laboratorios\Lab 2\TalentHub\TalentHub\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+D:\Documentos\1A URL\ED2\Laboratorios\Lab 2\TalentHub\TalentHub\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+D:\Documentos\1A URL\ED2\Laboratorios\Lab 2\TalentHub\TalentHub\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+D:\Documentos\1A URL\ED2\Laboratorios\Lab 2\TalentHub\TalentHub\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+D:\Documentos\1A URL\ED2\Laboratorios\Lab 2\TalentHub\TalentHub\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+D:\Documentos\1A URL\ED2\Laboratorios\Lab 2\TalentHub\TalentHub\obj\Debug\netcoreapp3.1\TalentHub.RazorTargetAssemblyInfo.cache
+D:\Documentos\1A URL\ED2\Laboratorios\Lab 2\TalentHub\TalentHub\obj\Debug\netcoreapp3.1\TalentHub.RazorTargetAssemblyInfo.cs
+D:\Documentos\1A URL\ED2\Laboratorios\Lab 2\TalentHub\TalentHub\obj\Debug\netcoreapp3.1\TalentHub.Views.pdb
+D:\Documentos\1A URL\ED2\Laboratorios\Lab 2\TalentHub\TalentHub\obj\Debug\netcoreapp3.1\TalentHub.csproj.CopyComplete
+D:\Documentos\1A URL\ED2\Laboratorios\Lab 2\TalentHub\TalentHub\obj\Debug\netcoreapp3.1\TalentHub.dll
+D:\Documentos\1A URL\ED2\Laboratorios\Lab 2\TalentHub\TalentHub\obj\Debug\netcoreapp3.1\TalentHub.pdb
+D:\Documentos\1A URL\ED2\Laboratorios\Lab 2\TalentHub\TalentHub\obj\Debug\netcoreapp3.1\TalentHub.genruntimeconfig.cache
+D:\Documentos\1A URL\ED2\Laboratorios\Lab 2\TalentHub\TalentHub\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+D:\Documentos\1A URL\ED2\Laboratorios\Lab 2\TalentHub\TalentHub\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+D:\Documentos\1A URL\ED2\Laboratorios\Lab 2\TalentHub\TalentHub\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+D:\Documentos\1A URL\ED2\Laboratorios\Lab 2\TalentHub\TalentHub\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\Documentos\1A URL\ED2\Laboratorios\Lab 2\TalentHub\TalentHub\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+D:\Documentos\1A URL\ED2\Laboratorios\Lab 2\TalentHub\TalentHub\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+D:\Documentos\1A URL\ED2\Laboratorios\Lab 2\TalentHub\TalentHub\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\Documentos\1A URL\ED2\Laboratorios\Lab 2\TalentHub\TalentHub\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+D:\Documentos\1A URL\ED2\Laboratorios\Lab 2\TalentHub\TalentHub\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\Documentos\1A URL\ED2\Laboratorios\Lab 2\TalentHub\TalentHub\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+D:\Documentos\1A URL\ED2\Laboratorios\Lab 2\TalentHub\TalentHub\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\Documentos\1A URL\ED2\Laboratorios\Lab 2\TalentHub\TalentHub\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\Documentos\1A URL\ED2\Laboratorios\Lab 2\TalentHub\TalentHub\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\Documentos\1A URL\ED2\Laboratorios\Lab 2\TalentHub\TalentHub\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\Documentos\1A URL\ED2\Laboratorios\Lab 2\TalentHub\TalentHub\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\Documentos\1A URL\ED2\Laboratorios\Lab 2\TalentHub\TalentHub\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+D:\Documentos\1A URL\ED2\Laboratorios\Lab 2\TalentHub\TalentHub\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+D:\Documentos\1A URL\ED2\Laboratorios\Lab 2\TalentHub\TalentHub\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+D:\Documentos\1A URL\ED2\Laboratorios\Lab 2\TalentHub\TalentHub\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+D:\Documentos\1A URL\ED2\Laboratorios\Lab 2\TalentHub\TalentHub\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+D:\Documentos\1A URL\ED2\Laboratorios\Lab 2\TalentHub\TalentHub\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+D:\Documentos\1A URL\ED2\Laboratorios\Lab 2\TalentHub\TalentHub\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+D:\Documentos\1A URL\ED2\Laboratorios\Lab 2\TalentHub\TalentHub\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+D:\Documentos\1A URL\ED2\Laboratorios\Lab 2\TalentHub\TalentHub\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+D:\Documentos\1A URL\ED2\Laboratorios\Lab 2\TalentHub\TalentHub\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+D:\Documentos\1A URL\ED2\Laboratorios\Lab 2\TalentHub\TalentHub\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+D:\Documentos\1A URL\ED2\Laboratorios\Lab 2\TalentHub\TalentHub\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+D:\Documentos\1A URL\ED2\Laboratorios\Lab 2\TalentHub\TalentHub\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+D:\Documentos\1A URL\ED2\Laboratorios\Lab 2\TalentHub\TalentHub\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+D:\Documentos\1A URL\ED2\Laboratorios\Lab 2\TalentHub\TalentHub\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\Documentos\1A URL\ED2\Laboratorios\Lab 2\TalentHub\TalentHub\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+D:\Documentos\1A URL\ED2\Laboratorios\Lab 2\TalentHub\TalentHub\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+D:\Documentos\1A URL\ED2\Laboratorios\Lab 2\TalentHub\TalentHub\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\Documentos\1A URL\ED2\Laboratorios\Lab 2\TalentHub\TalentHub\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\Documentos\1A URL\ED2\Laboratorios\Lab 2\TalentHub\TalentHub\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Documentos\1A URL\ED2\Laboratorios\Lab 2\TalentHub\TalentHub\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Documentos\1A URL\ED2\Laboratorios\Lab 2\TalentHub\TalentHub\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Documentos\1A URL\ED2\Laboratorios\Lab 2\TalentHub\TalentHub\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Documentos\1A URL\ED2\Laboratorios\Lab 2\TalentHub\TalentHub\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Documentos\1A URL\ED2\Laboratorios\Lab 2\TalentHub\TalentHub\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Documentos\1A URL\ED2\Laboratorios\Lab 2\TalentHub\TalentHub\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Documentos\1A URL\ED2\Laboratorios\Lab 2\TalentHub\TalentHub\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Documentos\1A URL\ED2\Laboratorios\Lab 2\TalentHub\TalentHub\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Documentos\1A URL\ED2\Laboratorios\Lab 2\TalentHub\TalentHub\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Documentos\1A URL\ED2\Laboratorios\Lab 2\TalentHub\TalentHub\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Documentos\1A URL\ED2\Laboratorios\Lab 2\TalentHub\TalentHub\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Documentos\1A URL\ED2\Laboratorios\Lab 2\TalentHub\TalentHub\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Documentos\1A URL\ED2\Laboratorios\Lab 2\TalentHub\TalentHub\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Documentos\1A URL\ED2\Laboratorios\Lab 2\TalentHub\TalentHub\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Documentos\1A URL\ED2\Laboratorios\Lab 2\TalentHub\TalentHub\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Documentos\1A URL\ED2\Laboratorios\Lab 2\TalentHub\TalentHub\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Documentos\1A URL\ED2\Laboratorios\Lab 2\TalentHub\TalentHub\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Documentos\1A URL\ED2\Laboratorios\Lab 2\TalentHub\TalentHub\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Documentos\1A URL\ED2\Laboratorios\Lab 2\TalentHub\TalentHub\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Documentos\1A URL\ED2\Laboratorios\Lab 2\TalentHub\TalentHub\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Documentos\1A URL\ED2\Laboratorios\Lab 2\TalentHub\TalentHub\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Documentos\1A URL\ED2\Laboratorios\Lab 2\TalentHub\TalentHub\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Documentos\1A URL\ED2\Laboratorios\Lab 2\TalentHub\TalentHub\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Documentos\1A URL\ED2\Laboratorios\Lab 2\TalentHub\TalentHub\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Documentos\1A URL\ED2\Laboratorios\Lab 2\TalentHub\TalentHub\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Documentos\1A URL\ED2\Laboratorios\Lab 2\TalentHub\TalentHub\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Documentos\1A URL\ED2\Laboratorios\Lab 2\TalentHub\TalentHub\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Documentos\1A URL\ED2\Laboratorios\Lab 2\TalentHub\TalentHub\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Documentos\1A URL\ED2\Laboratorios\Lab 2\TalentHub\TalentHub\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Documentos\1A URL\ED2\Laboratorios\Lab 2\TalentHub\TalentHub\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Documentos\1A URL\ED2\Laboratorios\Lab 2\TalentHub\TalentHub\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Documentos\1A URL\ED2\Laboratorios\Lab 2\TalentHub\TalentHub\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Documentos\1A URL\ED2\Laboratorios\Lab 2\TalentHub\TalentHub\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Documentos\1A URL\ED2\Laboratorios\Lab 2\TalentHub\TalentHub\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Documentos\1A URL\ED2\Laboratorios\Lab 2\TalentHub\TalentHub\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Documentos\1A URL\ED2\Laboratorios\Lab 2\TalentHub\TalentHub\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Documentos\1A URL\ED2\Laboratorios\Lab 2\TalentHub\TalentHub\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Documentos\1A URL\ED2\Laboratorios\Lab 2\TalentHub\TalentHub\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Documentos\1A URL\ED2\Laboratorios\Lab 2\TalentHub\TalentHub\obj\Debug\netcoreapp3.1\Razor\Views\Home\Visualizer.cshtml.g.cs
+D:\Documentos\1A URL\ED2\Laboratorios\Lab 2\TalentHub\TalentHub\obj\Debug\netcoreapp3.1\Razor\Views\Home\CargarArchivo.cshtml.g.cs
+D:\Documentos\1A URL\ED2\Laboratorios\Lab 2\TalentHub\TalentHub\obj\Debug\netcoreapp3.1\Razor\Views\Home\Bitacoras.cshtml.g.cs
+D:\Documentos\1A URL\Estrucrutas de Datos 2\Laboratorios\Lab 2\TalentHub\TalentHub\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\Documentos\1A URL\Estrucrutas de Datos 2\Laboratorios\Lab 2\TalentHub\TalentHub\bin\Debug\netcoreapp3.1\appsettings.json
+D:\Documentos\1A URL\Estrucrutas de Datos 2\Laboratorios\Lab 2\TalentHub\TalentHub\bin\Debug\netcoreapp3.1\Lab1Consola.deps.json
+D:\Documentos\1A URL\Estrucrutas de Datos 2\Laboratorios\Lab 2\TalentHub\TalentHub\bin\Debug\netcoreapp3.1\Lab1Consola.runtimeconfig.json
+D:\Documentos\1A URL\Estrucrutas de Datos 2\Laboratorios\Lab 2\TalentHub\TalentHub\bin\Debug\netcoreapp3.1\Lab1Consola.runtimeconfig.dev.json
+D:\Documentos\1A URL\Estrucrutas de Datos 2\Laboratorios\Lab 2\TalentHub\TalentHub\bin\Debug\netcoreapp3.1\Lab1Consola.exe
+D:\Documentos\1A URL\Estrucrutas de Datos 2\Laboratorios\Lab 2\TalentHub\TalentHub\bin\Debug\netcoreapp3.1\TalentHub.exe
+D:\Documentos\1A URL\Estrucrutas de Datos 2\Laboratorios\Lab 2\TalentHub\TalentHub\bin\Debug\netcoreapp3.1\TalentHub.deps.json
+D:\Documentos\1A URL\Estrucrutas de Datos 2\Laboratorios\Lab 2\TalentHub\TalentHub\bin\Debug\netcoreapp3.1\TalentHub.runtimeconfig.json
+D:\Documentos\1A URL\Estrucrutas de Datos 2\Laboratorios\Lab 2\TalentHub\TalentHub\bin\Debug\netcoreapp3.1\TalentHub.runtimeconfig.dev.json
+D:\Documentos\1A URL\Estrucrutas de Datos 2\Laboratorios\Lab 2\TalentHub\TalentHub\bin\Debug\netcoreapp3.1\TalentHub.dll
+D:\Documentos\1A URL\Estrucrutas de Datos 2\Laboratorios\Lab 2\TalentHub\TalentHub\bin\Debug\netcoreapp3.1\TalentHub.pdb
+D:\Documentos\1A URL\Estrucrutas de Datos 2\Laboratorios\Lab 2\TalentHub\TalentHub\bin\Debug\netcoreapp3.1\TalentHub.Views.dll
+D:\Documentos\1A URL\Estrucrutas de Datos 2\Laboratorios\Lab 2\TalentHub\TalentHub\bin\Debug\netcoreapp3.1\TalentHub.Views.pdb
+D:\Documentos\1A URL\Estrucrutas de Datos 2\Laboratorios\Lab 2\TalentHub\TalentHub\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+D:\Documentos\1A URL\Estrucrutas de Datos 2\Laboratorios\Lab 2\TalentHub\TalentHub\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+D:\Documentos\1A URL\Estrucrutas de Datos 2\Laboratorios\Lab 2\TalentHub\TalentHub\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+D:\Documentos\1A URL\Estrucrutas de Datos 2\Laboratorios\Lab 2\TalentHub\TalentHub\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\Documentos\1A URL\Estrucrutas de Datos 2\Laboratorios\Lab 2\TalentHub\TalentHub\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+D:\Documentos\1A URL\Estrucrutas de Datos 2\Laboratorios\Lab 2\TalentHub\TalentHub\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+D:\Documentos\1A URL\Estrucrutas de Datos 2\Laboratorios\Lab 2\TalentHub\TalentHub\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\Documentos\1A URL\Estrucrutas de Datos 2\Laboratorios\Lab 2\TalentHub\TalentHub\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+D:\Documentos\1A URL\Estrucrutas de Datos 2\Laboratorios\Lab 2\TalentHub\TalentHub\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\Documentos\1A URL\Estrucrutas de Datos 2\Laboratorios\Lab 2\TalentHub\TalentHub\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+D:\Documentos\1A URL\Estrucrutas de Datos 2\Laboratorios\Lab 2\TalentHub\TalentHub\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\Documentos\1A URL\Estrucrutas de Datos 2\Laboratorios\Lab 2\TalentHub\TalentHub\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\Documentos\1A URL\Estrucrutas de Datos 2\Laboratorios\Lab 2\TalentHub\TalentHub\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\Documentos\1A URL\Estrucrutas de Datos 2\Laboratorios\Lab 2\TalentHub\TalentHub\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\Documentos\1A URL\Estrucrutas de Datos 2\Laboratorios\Lab 2\TalentHub\TalentHub\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\Documentos\1A URL\Estrucrutas de Datos 2\Laboratorios\Lab 2\TalentHub\TalentHub\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+D:\Documentos\1A URL\Estrucrutas de Datos 2\Laboratorios\Lab 2\TalentHub\TalentHub\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+D:\Documentos\1A URL\Estrucrutas de Datos 2\Laboratorios\Lab 2\TalentHub\TalentHub\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+D:\Documentos\1A URL\Estrucrutas de Datos 2\Laboratorios\Lab 2\TalentHub\TalentHub\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+D:\Documentos\1A URL\Estrucrutas de Datos 2\Laboratorios\Lab 2\TalentHub\TalentHub\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+D:\Documentos\1A URL\Estrucrutas de Datos 2\Laboratorios\Lab 2\TalentHub\TalentHub\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+D:\Documentos\1A URL\Estrucrutas de Datos 2\Laboratorios\Lab 2\TalentHub\TalentHub\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+D:\Documentos\1A URL\Estrucrutas de Datos 2\Laboratorios\Lab 2\TalentHub\TalentHub\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+D:\Documentos\1A URL\Estrucrutas de Datos 2\Laboratorios\Lab 2\TalentHub\TalentHub\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+D:\Documentos\1A URL\Estrucrutas de Datos 2\Laboratorios\Lab 2\TalentHub\TalentHub\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+D:\Documentos\1A URL\Estrucrutas de Datos 2\Laboratorios\Lab 2\TalentHub\TalentHub\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+D:\Documentos\1A URL\Estrucrutas de Datos 2\Laboratorios\Lab 2\TalentHub\TalentHub\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+D:\Documentos\1A URL\Estrucrutas de Datos 2\Laboratorios\Lab 2\TalentHub\TalentHub\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+D:\Documentos\1A URL\Estrucrutas de Datos 2\Laboratorios\Lab 2\TalentHub\TalentHub\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+D:\Documentos\1A URL\Estrucrutas de Datos 2\Laboratorios\Lab 2\TalentHub\TalentHub\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\Documentos\1A URL\Estrucrutas de Datos 2\Laboratorios\Lab 2\TalentHub\TalentHub\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+D:\Documentos\1A URL\Estrucrutas de Datos 2\Laboratorios\Lab 2\TalentHub\TalentHub\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+D:\Documentos\1A URL\Estrucrutas de Datos 2\Laboratorios\Lab 2\TalentHub\TalentHub\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\Documentos\1A URL\Estrucrutas de Datos 2\Laboratorios\Lab 2\TalentHub\TalentHub\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\Documentos\1A URL\Estrucrutas de Datos 2\Laboratorios\Lab 2\TalentHub\TalentHub\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Documentos\1A URL\Estrucrutas de Datos 2\Laboratorios\Lab 2\TalentHub\TalentHub\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Documentos\1A URL\Estrucrutas de Datos 2\Laboratorios\Lab 2\TalentHub\TalentHub\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Documentos\1A URL\Estrucrutas de Datos 2\Laboratorios\Lab 2\TalentHub\TalentHub\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Documentos\1A URL\Estrucrutas de Datos 2\Laboratorios\Lab 2\TalentHub\TalentHub\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Documentos\1A URL\Estrucrutas de Datos 2\Laboratorios\Lab 2\TalentHub\TalentHub\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Documentos\1A URL\Estrucrutas de Datos 2\Laboratorios\Lab 2\TalentHub\TalentHub\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Documentos\1A URL\Estrucrutas de Datos 2\Laboratorios\Lab 2\TalentHub\TalentHub\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Documentos\1A URL\Estrucrutas de Datos 2\Laboratorios\Lab 2\TalentHub\TalentHub\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Documentos\1A URL\Estrucrutas de Datos 2\Laboratorios\Lab 2\TalentHub\TalentHub\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Documentos\1A URL\Estrucrutas de Datos 2\Laboratorios\Lab 2\TalentHub\TalentHub\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Documentos\1A URL\Estrucrutas de Datos 2\Laboratorios\Lab 2\TalentHub\TalentHub\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Documentos\1A URL\Estrucrutas de Datos 2\Laboratorios\Lab 2\TalentHub\TalentHub\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Documentos\1A URL\Estrucrutas de Datos 2\Laboratorios\Lab 2\TalentHub\TalentHub\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Documentos\1A URL\Estrucrutas de Datos 2\Laboratorios\Lab 2\TalentHub\TalentHub\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Documentos\1A URL\Estrucrutas de Datos 2\Laboratorios\Lab 2\TalentHub\TalentHub\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Documentos\1A URL\Estrucrutas de Datos 2\Laboratorios\Lab 2\TalentHub\TalentHub\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Documentos\1A URL\Estrucrutas de Datos 2\Laboratorios\Lab 2\TalentHub\TalentHub\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Documentos\1A URL\Estrucrutas de Datos 2\Laboratorios\Lab 2\TalentHub\TalentHub\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Documentos\1A URL\Estrucrutas de Datos 2\Laboratorios\Lab 2\TalentHub\TalentHub\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Documentos\1A URL\Estrucrutas de Datos 2\Laboratorios\Lab 2\TalentHub\TalentHub\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Documentos\1A URL\Estrucrutas de Datos 2\Laboratorios\Lab 2\TalentHub\TalentHub\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Documentos\1A URL\Estrucrutas de Datos 2\Laboratorios\Lab 2\TalentHub\TalentHub\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Documentos\1A URL\Estrucrutas de Datos 2\Laboratorios\Lab 2\TalentHub\TalentHub\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Documentos\1A URL\Estrucrutas de Datos 2\Laboratorios\Lab 2\TalentHub\TalentHub\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Documentos\1A URL\Estrucrutas de Datos 2\Laboratorios\Lab 2\TalentHub\TalentHub\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Documentos\1A URL\Estrucrutas de Datos 2\Laboratorios\Lab 2\TalentHub\TalentHub\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Documentos\1A URL\Estrucrutas de Datos 2\Laboratorios\Lab 2\TalentHub\TalentHub\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Documentos\1A URL\Estrucrutas de Datos 2\Laboratorios\Lab 2\TalentHub\TalentHub\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Documentos\1A URL\Estrucrutas de Datos 2\Laboratorios\Lab 2\TalentHub\TalentHub\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Documentos\1A URL\Estrucrutas de Datos 2\Laboratorios\Lab 2\TalentHub\TalentHub\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Documentos\1A URL\Estrucrutas de Datos 2\Laboratorios\Lab 2\TalentHub\TalentHub\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Documentos\1A URL\Estrucrutas de Datos 2\Laboratorios\Lab 2\TalentHub\TalentHub\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Documentos\1A URL\Estrucrutas de Datos 2\Laboratorios\Lab 2\TalentHub\TalentHub\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Documentos\1A URL\Estrucrutas de Datos 2\Laboratorios\Lab 2\TalentHub\TalentHub\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Documentos\1A URL\Estrucrutas de Datos 2\Laboratorios\Lab 2\TalentHub\TalentHub\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Documentos\1A URL\Estrucrutas de Datos 2\Laboratorios\Lab 2\TalentHub\TalentHub\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Documentos\1A URL\Estrucrutas de Datos 2\Laboratorios\Lab 2\TalentHub\TalentHub\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Documentos\1A URL\Estrucrutas de Datos 2\Laboratorios\Lab 2\TalentHub\TalentHub\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Documentos\1A URL\Estrucrutas de Datos 2\Laboratorios\Lab 2\TalentHub\TalentHub\bin\Debug\netcoreapp3.1\Lab1Consola.dll
+D:\Documentos\1A URL\Estrucrutas de Datos 2\Laboratorios\Lab 2\TalentHub\TalentHub\bin\Debug\netcoreapp3.1\Lab1Consola.pdb
+D:\Documentos\1A URL\Estrucrutas de Datos 2\Laboratorios\Lab 2\TalentHub\TalentHub\obj\Debug\netcoreapp3.1\TalentHub.csproj.AssemblyReference.cache
+D:\Documentos\1A URL\Estrucrutas de Datos 2\Laboratorios\Lab 2\TalentHub\TalentHub\obj\Debug\netcoreapp3.1\TalentHub.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documentos\1A URL\Estrucrutas de Datos 2\Laboratorios\Lab 2\TalentHub\TalentHub\obj\Debug\netcoreapp3.1\TalentHub.AssemblyInfoInputs.cache
+D:\Documentos\1A URL\Estrucrutas de Datos 2\Laboratorios\Lab 2\TalentHub\TalentHub\obj\Debug\netcoreapp3.1\TalentHub.AssemblyInfo.cs
+D:\Documentos\1A URL\Estrucrutas de Datos 2\Laboratorios\Lab 2\TalentHub\TalentHub\obj\Debug\netcoreapp3.1\TalentHub.csproj.CoreCompileInputs.cache
+D:\Documentos\1A URL\Estrucrutas de Datos 2\Laboratorios\Lab 2\TalentHub\TalentHub\obj\Debug\netcoreapp3.1\TalentHub.MvcApplicationPartsAssemblyInfo.cache
+D:\Documentos\1A URL\Estrucrutas de Datos 2\Laboratorios\Lab 2\TalentHub\TalentHub\obj\Debug\netcoreapp3.1\TalentHub.RazorAssemblyInfo.cache
+D:\Documentos\1A URL\Estrucrutas de Datos 2\Laboratorios\Lab 2\TalentHub\TalentHub\obj\Debug\netcoreapp3.1\TalentHub.RazorAssemblyInfo.cs
+D:\Documentos\1A URL\Estrucrutas de Datos 2\Laboratorios\Lab 2\TalentHub\TalentHub\obj\Debug\netcoreapp3.1\staticwebassets\TalentHub.StaticWebAssets.Manifest.cache
+D:\Documentos\1A URL\Estrucrutas de Datos 2\Laboratorios\Lab 2\TalentHub\TalentHub\obj\Debug\netcoreapp3.1\staticwebassets\TalentHub.StaticWebAssets.xml
+D:\Documentos\1A URL\Estrucrutas de Datos 2\Laboratorios\Lab 2\TalentHub\TalentHub\obj\Debug\netcoreapp3.1\scopedcss\bundle\TalentHub.styles.css
+D:\Documentos\1A URL\Estrucrutas de Datos 2\Laboratorios\Lab 2\TalentHub\TalentHub\obj\Debug\netcoreapp3.1\TalentHub.TagHelpers.input.cache
+D:\Documentos\1A URL\Estrucrutas de Datos 2\Laboratorios\Lab 2\TalentHub\TalentHub\obj\Debug\netcoreapp3.1\TalentHub.TagHelpers.output.cache
+D:\Documentos\1A URL\Estrucrutas de Datos 2\Laboratorios\Lab 2\TalentHub\TalentHub\obj\Debug\netcoreapp3.1\TalentHub.RazorCoreGenerate.cache
+D:\Documentos\1A URL\Estrucrutas de Datos 2\Laboratorios\Lab 2\TalentHub\TalentHub\obj\Debug\netcoreapp3.1\Razor\Views\Home\Bitacoras.cshtml.g.cs
+D:\Documentos\1A URL\Estrucrutas de Datos 2\Laboratorios\Lab 2\TalentHub\TalentHub\obj\Debug\netcoreapp3.1\Razor\Views\Home\CargarArchivo.cshtml.g.cs
+D:\Documentos\1A URL\Estrucrutas de Datos 2\Laboratorios\Lab 2\TalentHub\TalentHub\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+D:\Documentos\1A URL\Estrucrutas de Datos 2\Laboratorios\Lab 2\TalentHub\TalentHub\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+D:\Documentos\1A URL\Estrucrutas de Datos 2\Laboratorios\Lab 2\TalentHub\TalentHub\obj\Debug\netcoreapp3.1\Razor\Views\Home\Visualizer.cshtml.g.cs
+D:\Documentos\1A URL\Estrucrutas de Datos 2\Laboratorios\Lab 2\TalentHub\TalentHub\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+D:\Documentos\1A URL\Estrucrutas de Datos 2\Laboratorios\Lab 2\TalentHub\TalentHub\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+D:\Documentos\1A URL\Estrucrutas de Datos 2\Laboratorios\Lab 2\TalentHub\TalentHub\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+D:\Documentos\1A URL\Estrucrutas de Datos 2\Laboratorios\Lab 2\TalentHub\TalentHub\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+D:\Documentos\1A URL\Estrucrutas de Datos 2\Laboratorios\Lab 2\TalentHub\TalentHub\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+D:\Documentos\1A URL\Estrucrutas de Datos 2\Laboratorios\Lab 2\TalentHub\TalentHub\obj\Debug\netcoreapp3.1\TalentHub.RazorTargetAssemblyInfo.cache
+D:\Documentos\1A URL\Estrucrutas de Datos 2\Laboratorios\Lab 2\TalentHub\TalentHub\obj\Debug\netcoreapp3.1\TalentHub.RazorTargetAssemblyInfo.cs
+D:\Documentos\1A URL\Estrucrutas de Datos 2\Laboratorios\Lab 2\TalentHub\TalentHub\obj\Debug\netcoreapp3.1\TalentHub.Views.pdb
+D:\Documentos\1A URL\Estrucrutas de Datos 2\Laboratorios\Lab 2\TalentHub\TalentHub\obj\Debug\netcoreapp3.1\TalentHub.csproj.CopyComplete
+D:\Documentos\1A URL\Estrucrutas de Datos 2\Laboratorios\Lab 2\TalentHub\TalentHub\obj\Debug\netcoreapp3.1\TalentHub.dll
+D:\Documentos\1A URL\Estrucrutas de Datos 2\Laboratorios\Lab 2\TalentHub\TalentHub\obj\Debug\netcoreapp3.1\TalentHub.pdb
+D:\Documentos\1A URL\Estrucrutas de Datos 2\Laboratorios\Lab 2\TalentHub\TalentHub\obj\Debug\netcoreapp3.1\TalentHub.genruntimeconfig.cache
+D:\Documentos\1A URL\Estrucrutas de Datos 2\Laboratorios\Lab 2\TalentHub\TalentHub\obj\Debug\netcoreapp3.1\Razor\Views\Home\VisualizerLetters.cshtml.g.cs

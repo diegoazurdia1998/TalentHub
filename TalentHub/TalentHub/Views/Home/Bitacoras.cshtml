@@ -1,0 +1,20 @@
+﻿
+@{
+    ViewData["Title"] = "Bitacoras";
+}
+
+<h1>Bitacoras</h1><br />
+@using (Html.BeginForm("Bitacoras", "Home", FormMethod.Post))
+{
+
+    <div class="text-center">
+        <form asp-action="Bitacoras">
+            <label>Igrese el nombre del solicitante</label><br />
+            <input type="text" name="name" /><br />
+            <input type="submit" id="extraerBitacoras" value="Extraer" />
+        </form><br />
+
+    </div>
+
+}
+

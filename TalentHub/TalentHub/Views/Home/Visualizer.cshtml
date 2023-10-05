@@ -1,0 +1,90 @@
+﻿@{
+    ViewData["Title"] = "Visualizer";
+}
+
+<h1>Solicitates</h1><br />
+@using (Html.BeginForm("Visualizer", "Home", FormMethod.Post))
+{
+
+    <div class="text-center">
+        <form asp-action="Visualizer">
+            <label>Igrese el DPI o el nombre del solicitante</label><br />
+            <input type="text" name="search" /><br /><br />
+            <input type="hidden" id="DPISearch" name="DPISearch" value=true /> 
+            <input type="submit" id="buscarDPI" value="Buscar DPI" />
+            <input type="submit" id="buscarNombre" value="Buscar nombre" />
+        </form><br />
+        
+    </div>
+
+    <script>
+        document.getElementById('buscarDPI').addEventListener('click', function () {
+            document.getElementById('DPISearch').value = true;
+        });
+
+    document.getElementById('buscarNombre').addEventListener('click', function() {
+        document.getElementById('DPISearch').value = false;
+    });
+    </script>
+}
+<br />
+<div>
+    <table class="table">
+        <thead>
+            <tr>
+                <th>
+                    Nombre
+                </th>
+                <th>
+                    DPI
+                </th>
+                <th>
+                    Dirección
+                </th>
+                <th>
+                    Fecha de nacimeinto
+                </th>
+                <th>
+                    Compañias
+                </th>
+                <th>
+                    Cartas
+                </th>
+                <th></th>
+            </tr>
+        </thead>
+        <tbody>
+            @if (ViewData["solicitantes"] != null)
+            {
+            @foreach (var item in ViewData["solicitantes"] as List<Lab1Consola.Models.Applicant>)
+            {
+            <tr>
+                <td>
+                    @Html.DisplayFor(modelItem => item.name)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.dpi)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.address)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.datebirth)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.companies)
+                </td>
+                <td>
+                    <form asp-action="VisualizerLetters">
+                        <input type="hidden"  id="applicant" name="applicant" value=@item.dpi /> 
+                        <input type="submit" value="Ver cartas" />
+                    </form>
+                </td>
+
+
+            </tr>
+            }
+            }
+        </tbody>
+    </table>
+</div>

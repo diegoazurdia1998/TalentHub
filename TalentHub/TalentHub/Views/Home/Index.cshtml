@@ -1,0 +1,13 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+}
+
+<div class="text-center">
+    <h1 class="display-4">Bienvenido a TalentHub</h1>
+    <p>
+        <form asp-action="CargarArchivo">
+            <input type="text" name="filePath" />
+            <input type="submit" value="Cargar solicitantes" />
+        </form>
+    </p>
+</div>
