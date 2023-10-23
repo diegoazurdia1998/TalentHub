@@ -44,6 +44,7 @@ namespace TalentHub.Controllers
             services = new ApplicantService(filePath);
             if (services.isNotEmpty())
             {
+                ViewBag.errores = services.errores;
                 return View("CargarArchivo");
             }
             else
@@ -125,10 +126,20 @@ namespace TalentHub.Controllers
             }
 
         }
-        public IActionResult VisualizerLetters(string applicant)
+        public IActionResult VisualizerLetters(string applicant, bool letters)
         {
-             
+            Applicant tempApplicant = services.buscarDPI(applicant).ToArray()[0].Clone();
+            ViewBag.applicant = tempApplicant;
+            ViewBag.letters = letters;
+            if(!letters) ViewBag.conversations = services.ValidateConversations(tempApplicant);
+            
+            return View();
+        }
+        public IActionResult VisualizerDetails(string applicant)
+        {
+
             ViewBag.applicant = services.buscarDPI(applicant).ToArray()[0].Clone();
+            
             return View();
         }
     }

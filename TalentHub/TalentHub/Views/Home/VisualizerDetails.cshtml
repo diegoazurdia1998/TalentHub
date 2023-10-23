@@ -1,0 +1,88 @@
+﻿
+@{
+    ViewData["Title"] = "VisualizerDetails";
+}
+
+<h1>Detalles del solicitante</h1>
+
+@{
+    Lab1Consola.Models.Applicant applicant = ViewBag.applicant;
+    Lab1Consola.Utils.CompressingOperations operation = new Lab1Consola.Utils.CompressingOperations();
+    <style>
+        .form-container {
+            display: flex;
+            justify-content: space-between;
+        }
+    </style>
+
+    <div class="form-container">
+        @if (applicant.letters != null)
+        {
+            <form asp-action="VisualizerLetters">
+                <input type="hidden" id="applicant" name="applicant" value=@applicant.dpi />
+                <input type="hidden" id="applicant" name="letters" value=true />
+                <input type="submit" value="Ver cartas" />
+            </form>
+        }
+        @if (applicant.convesations != null)
+        {
+            <form asp-action="VisualizerLetters">
+                <input type="hidden" id="applicant" name="applicant" value=@applicant.dpi />
+                <input type="hidden" id="applicant" name="letters" value=false />
+                <input type="submit" value="Ver conversaciones" />
+            </form>
+        }
+    </div>
+    <br />
+    <div>
+        <table class="table">
+            <thead>
+                <tr>
+                    <th>
+                        Nombre
+                    </th>
+                    <th>
+                        DPI
+                    </th>
+                    <th>
+                        Dirección
+                    </th>
+                    <th>
+                        Fecha de nacimeinto
+                    </th>
+                    <th>
+                        Compañías
+                    </th>
+                    <th></th>
+                </tr>
+            </thead>
+            <tbody>
+
+                <tr>
+                    <td>
+                        @applicant.name
+                    </td>
+                    <td>
+                        @applicant.dpi
+                    </td>
+                    <td>
+                        @applicant.address
+                    </td>
+                    <td>
+                        @applicant.datebirth
+                    </td>
+                    <td>
+                        @foreach (var conv in operation.DecompressDPICompany(applicant))
+                        {
+                            <p>@conv</p>
+                        }
+                    </td>
+
+                </tr>
+
+            </tbody>
+        </table>
+
+
+    </div>
+}

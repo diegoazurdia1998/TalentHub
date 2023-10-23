@@ -8,5 +8,18 @@
         <input type="submit" value="Ir a al listado" />
     </form>
 </div>
+<div>
+    @{ 
+        List<string> ERROR = ViewBag.errores;
+        if(ERROR != null)
+        {
+            <p>@ERROR.Count</p><br />
+            foreach(var errr in ERROR)
+                {
+                    <p>@errr</p>
+                }
+        }
+    }
+</div>
 
 

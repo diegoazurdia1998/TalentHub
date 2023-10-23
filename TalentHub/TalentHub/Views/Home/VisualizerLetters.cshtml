@@ -6,6 +6,8 @@
 <h1>Cartas del solicitante</h1>
 @{
     Lab1Consola.Models.Applicant applicant = ViewBag.applicant;
+    bool showLetters = ViewBag.letters;
+    var conversations = ViewBag.conversations;
     <div>
         <table class="table">
             <thead>
@@ -41,26 +43,53 @@
                     <td>
                         @applicant.datebirth
                     </td>
-
+                    <td>
+                    </td>
 
                 </tr>
 
             </tbody>
         </table>
-        <p><div class="text-center"><h4>Cartas</h4></div>
+        @if (showLetters)
+        {
+            <div class="text-center"><h4>Cartas</h4></div>
             @if (applicant.letters != null)
             {
 
 
                 @for (int i = 0; i < @applicant.letters.Count; i++)
                 {
-                <p>Carta @(i + 1): <br />@applicant.letters[i]</p>
-            }
+                    <p>Carta @(i + 1): <br />@applicant.letters[i]</p>
+                }
             }
             else
             {
                 <p>No hay cartas registradas</p>
             }
-            </p>
-        </div>
+        }
+        else
+        {
+            <div class="text-center"><h4>Conversaciones</h4></div>
+            @if (conversations != null)
+            {
+                <table>
+                    <tr>
+                        <th>Validación</th>
+                        <th>Conversación</th>
+                    </tr>
+                    @foreach (var tupla in conversations)
+                    {
+                        <tr>
+                            <td>@tupla.Item1</td>
+                            <td>@tupla.Item2</td>
+                        </tr>
+                    }
+                </table>
+            }
+            else
+            {
+                <p>No hay conversaciones registradas</p>
+            }
+        }
+    </div>
     }

@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "EvS3CG3IjHpKId522I+z47SQAzHImPBus1CUplwOvafc1qVjV7ltbgtgekzzqaqH0RBcPdlDWWxUaD5ePjP4Gw==",
+  "dgSpecHash": "ZI25TTSf6LcWImhuFnyaqRJ4s02WChVmLzZrGYRkcduoRzYock2E2zX3T6B5pVikebCysbxIlDIp3nlGHwOPVg==",
   "success": true,
   "projectFilePath": "D:\\Documentos\\1A URL\\Estrucrutas de Datos 2\\Laboratorios\\Lab 2\\TalentHub\\TalentHub\\TalentHub.csproj",
   "expectedPackageFiles": [
@@ -30,6 +30,7 @@
     "C:\\Users\\diego\\.nuget\\packages\\netstandard.library\\1.6.1\\netstandard.library.1.6.1.nupkg.sha512",
     "C:\\Users\\diego\\.nuget\\packages\\newtonsoft.json\\11.0.2\\newtonsoft.json.11.0.2.nupkg.sha512",
     "C:\\Users\\diego\\.nuget\\packages\\nuget.frameworks\\4.7.0\\nuget.frameworks.4.7.0.nupkg.sha512",
+    "C:\\Users\\diego\\.nuget\\packages\\portable.bouncycastle\\1.9.0\\portable.bouncycastle.1.9.0.nupkg.sha512",
     "C:\\Users\\diego\\.nuget\\packages\\runtime.debian.8-x64.runtime.native.system.security.cryptography.openssl\\4.3.0\\runtime.debian.8-x64.runtime.native.system.security.cryptography.openssl.4.3.0.nupkg.sha512",
     "C:\\Users\\diego\\.nuget\\packages\\runtime.fedora.23-x64.runtime.native.system.security.cryptography.openssl\\4.3.0\\runtime.fedora.23-x64.runtime.native.system.security.cryptography.openssl.4.3.0.nupkg.sha512",
     "C:\\Users\\diego\\.nuget\\packages\\runtime.fedora.24-x64.runtime.native.system.security.cryptography.openssl\\4.3.0\\runtime.fedora.24-x64.runtime.native.system.security.cryptography.openssl.4.3.0.nupkg.sha512",

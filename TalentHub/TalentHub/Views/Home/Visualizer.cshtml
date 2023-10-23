@@ -48,7 +48,7 @@
                     Compañias
                 </th>
                 <th>
-                    Cartas
+                    Detalles
                 </th>
                 <th></th>
             </tr>
@@ -72,12 +72,15 @@
                     @Html.DisplayFor(modelItem => item.datebirth)
                 </td>
                 <td>
-                    @Html.DisplayFor(modelItem => item.companies)
+                    @foreach(var comp in item.companies)
+                    {
+                        <p>@comp</p>
+                    }
                 </td>
                 <td>
-                    <form asp-action="VisualizerLetters">
+                    <form asp-action="VisualizerDetails">
                         <input type="hidden"  id="applicant" name="applicant" value=@item.dpi /> 
-                        <input type="submit" value="Ver cartas" />
+                        <input type="submit" value="Ver detalles" />
                     </form>
                 </td>
 
