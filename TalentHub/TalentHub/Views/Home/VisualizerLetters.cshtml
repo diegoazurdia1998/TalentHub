@@ -2,12 +2,27 @@
 @{
     ViewData["Title"] = "VisualizerLetters";
 }
-
-<h1>Cartas del solicitante</h1>
 @{
     Lab1Consola.Models.Applicant applicant = ViewBag.applicant;
     bool showLetters = ViewBag.letters;
     var conversations = ViewBag.conversations;
+    <table class="table">
+        <thead>
+            <tr>
+                <th><p>Cartas del solicitante</p></th>
+                <th>
+                    <form asp-action="VisualizerDetails">
+                        <input type="hidden" id="applicant" name="applicant" value=@applicant.dpi />
+                        <input type="hidden" id="applicant" name="letters" value=false />
+                        <input type="submit" value="Regresar al solicitante" />
+                    </form>
+                </th>
+
+            </tr>
+        </thead>
+
+    </table>
+
     <div>
         <table class="table">
             <thead>
@@ -92,4 +107,4 @@
             }
         }
     </div>
-    }
+}

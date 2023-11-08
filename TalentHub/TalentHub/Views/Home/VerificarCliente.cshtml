@@ -1,0 +1,35 @@
+﻿
+@{
+    ViewData["Title"] = "VerificarCliente";
+}
+
+<h1>Verificar Cliente</h1>
+
+<form method="post">
+    <div>
+        <label for="reclutier">Reclutador:</label>
+        @Html.DropDownList("reclutier", new SelectList(ViewBag.Reclutadores), "Selecciona un reclutador", new { @class = "form-control" })
+    </div>
+    <div>
+        <label for="company">Compañía:</label>
+        @Html.DropDownList("company", new SelectList(ViewBag.Companias), "Selecciona una compañía", new { @class = "form-control" })
+    </div><br />
+          <p>
+              <button type="submit">Validar</button>
+              @{
+                  var valid =  ViewBag.valid;
+              }
+              @if (valid != null && valid)
+              {
+<p>
+            Valido
+        </p>
+    }
+    else
+    {
+        <p>
+            No valido
+        </p>
+    }
+        </p>
+    </form>

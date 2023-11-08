@@ -142,5 +142,24 @@ namespace TalentHub.Controllers
             
             return View();
         }
+        public IActionResult VerificarCliente(string reclutier, string company)
+        {
+            if (services != null && services.isNotEmpty())
+            {
+                if (services.nullClientes()) services.ProcesarClientes();
+                ViewBag.Reclutadores = services.ListReclutiers();
+                ViewBag.Companias = services.ListCompanies();
+                if (reclutier != null && company != null && reclutier != "" && company != "")
+                {
+                    ViewBag.valid = services.ValidarCliente(reclutier, company, reclutier + company);
+                }
+
+                return View();
+            }
+            else
+            {
+                return RedirectToAction("Index");
+            }
+        }
     }
 }

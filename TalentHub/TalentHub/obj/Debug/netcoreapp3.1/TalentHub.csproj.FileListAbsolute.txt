@@ -241,3 +241,4 @@ D:\Documentos\1A URL\Estrucrutas de Datos 2\Laboratorios\Lab 2\TalentHub\TalentH
 D:\Documentos\1A URL\Estrucrutas de Datos 2\Laboratorios\Lab 2\TalentHub\TalentHub\obj\Debug\netcoreapp3.1\Razor\Views\Home\VisualizerLetters.cshtml.g.cs
 D:\Documentos\1A URL\Estrucrutas de Datos 2\Laboratorios\Lab 2\TalentHub\TalentHub\bin\Debug\netcoreapp3.1\BouncyCastle.Crypto.dll
 D:\Documentos\1A URL\Estrucrutas de Datos 2\Laboratorios\Lab 2\TalentHub\TalentHub\obj\Debug\netcoreapp3.1\Razor\Views\Home\VisualizerDetails.cshtml.g.cs
+D:\Documentos\1A URL\Estrucrutas de Datos 2\Laboratorios\Lab 2\TalentHub\TalentHub\obj\Debug\netcoreapp3.1\Razor\Views\Home\VerificarCliente.cshtml.g.cs
