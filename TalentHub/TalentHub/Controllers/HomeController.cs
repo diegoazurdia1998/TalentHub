@@ -131,6 +131,7 @@ namespace TalentHub.Controllers
             Applicant tempApplicant = services.buscarDPI(applicant).ToArray()[0].Clone();
             ViewBag.applicant = tempApplicant;
             ViewBag.letters = letters;
+            ViewBag.crypt = services.getCrypt();
             if(!letters) ViewBag.conversations = services.ValidateConversations(tempApplicant);
             
             return View();

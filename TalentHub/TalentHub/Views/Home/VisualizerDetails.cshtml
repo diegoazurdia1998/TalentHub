@@ -16,7 +16,7 @@
     </style>
 
     <div class="form-container">
-        @if (applicant.letters != null)
+        @if (applicant.cLetters != null)
         {
             <form asp-action="VisualizerLetters">
                 <input type="hidden" id="applicant" name="applicant" value=@applicant.dpi />

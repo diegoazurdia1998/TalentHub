@@ -67,14 +67,16 @@
         </table>
         @if (showLetters)
         {
+
             <div class="text-center"><h4>Cartas</h4></div>
-            @if (applicant.letters != null)
+            @if (applicant.cLetters != null)
             {
 
-
-                @for (int i = 0; i < @applicant.letters.Count; i++)
+                Lab1Consola.Utils.SDES crypt = ViewBag.crypt;
+                
+                @for (int i = 0; i < @applicant.cLetters.Count; i++)
                 {
-                    <p>Carta @(i + 1): <br />@applicant.letters[i]</p>
+                    <p>Carta @(i + 1): <br />@crypt.DecryptBlocks(applicant.cLetters[i])</p>
                 }
             }
             else
